@@ -1,0 +1,16 @@
+jurisdiction_code,jurisdiction_name,risk_level
+US,United States,LOW
+GB,United Kingdom,LOW
+CA,Canada,LOW
+DE,Germany,LOW
+FR,France,LOW
+AU,Australia,LOW
+JP,Japan,LOW
+SG,Singapore,LOW
+NL,Netherlands,LOW
+CH,Switzerland,LOW
+IR,Iran,HIGH
+KP,North Korea,HIGH
+MM,Myanmar,HIGH
+AF,Afghanistan,HIGH
+SY,Syria,HIGH
