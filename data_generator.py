@@ -63,6 +63,8 @@ LOW_RISK_JURISDICTIONS = {
     "SG": "Singapore",
     "NL": "Netherlands",
     "CH": "Switzerland",
+    "AE": "United Arab Emirates",
+    "HK": "Hong Kong",
 }
 HIGH_RISK_JURISDICTIONS = {
     "IR": "Iran",
