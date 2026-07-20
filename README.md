@@ -1,3 +1,4 @@
+```
 AML Transaction Learning Project
 This project was geared towards learning the principles and rules applied in Anti-Money Laundering
 systems in financial institutions.
@@ -26,3 +27,4 @@ CUST0002 | Rapid Movement
 CUST0003 | Round Dollar
 CUST0004 | High Risk Jurisdiction
 CUST0005 | Combo, sub-threshold deposits from a high risk Jurisdiction
+```
